@@ -25,5 +25,5 @@ cp .env.example .env
 Run the `fetch.py` script
 
 ```bash
-uv run fetch.py --battery-ids "216 217 218"
+uv run fetch.py --battery-ids "[battery_id_1] [battery_id_2] ..."
 ```
