@@ -1,0 +1,5 @@
+# Data saved out from fetch.py
+data/
+
+# Environment variables
+.env
